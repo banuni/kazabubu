@@ -1,0 +1,23 @@
+{
+  "name": "kazabubu",
+  "version": "1.0.0",
+  "description": "Best package ever",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banuni/kazabubu.git"
+  },
+  "keywords": [
+    "kaza",
+    "bubu"
+  ],
+  "author": "Nadav Nuni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/banuni/kazabubu/issues"
+  },
+  "homepage": "https://github.com/banuni/kazabubu#readme"
+}
