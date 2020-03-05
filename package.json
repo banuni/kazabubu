@@ -1,10 +1,15 @@
 {
   "name": "kazabubu",
   "version": "1.0.0",
+  "private": false,
+  "files": [
+    "lib",
+    "index.js"
+  ],
   "description": "Best package ever",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -19,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/banuni/kazabubu/issues"
   },
-  "homepage": "https://github.com/banuni/kazabubu#readme"
+  "homepage": "https://github.com/banuni/kazabubu#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
 }
